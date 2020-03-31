@@ -1,0 +1,6 @@
+server:
+  port: 8090
+auth:
+  name: lee
+  usl: https：//lee.优秀.com
+
