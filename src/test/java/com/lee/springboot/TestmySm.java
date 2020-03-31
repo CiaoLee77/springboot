@@ -13,6 +13,8 @@ public class TestmySm {
         map.put("222","bbb");
         map.put("333","ccc");
 
+        boolean bbb = map.containsValue("bbb");
+        System.out.println(bbb);
         System.out.println(map);
 
     }
